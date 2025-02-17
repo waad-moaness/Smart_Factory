@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1702212365 source:d:\data structure\smart factory\main.cpp
+	<iostream>
+	<Stack.h>
+	<Product.h>
+	<linkedList.h>
+	<windows.h>
+	<bits/stdc++.h>
+	<Manufacture.h>
+
+1701846983 source:d:\data structure\smart factory\src\stack.cpp
+	"Stack.h"
+
+1701859533 d:\data structure\smart factory\include\stack.h
+	<iostream>
+
+1701617312 source:d:\data structure\smart factory\src\queue.cpp
+	"Queue.h"
+
+1700324251 d:\data structure\smart factory\include\queue.h
+	<iostream>
+	<Stack.h>
+
+1702219940 source:d:\data structure\smart factory\src\linkedlist.cpp
+	"linkedList.h"
+
+1702057775 d:\data structure\smart factory\include\linkedlist.h
+	<iostream>
+	<Stack.h>
+	<Product.h>
+
+1702201066 source:d:\data structure\smart factory\src\product.cpp
+	"Product.h"
+
+1702201040 d:\data structure\smart factory\include\product.h
+	<iostream>
+	<Stack.h>
+
+1702201983 source:d:\data structure\smart factory\src\manufacture.cpp
+	"Manufacture.h"
+
+1702136115 d:\data structure\smart factory\include\manufacture.h
+	<iostream>
+	<Stack.h>
+	<Product.h>
+	<linkedList.h>
+
